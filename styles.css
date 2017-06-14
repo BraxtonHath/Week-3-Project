@@ -1,0 +1,25 @@
+.display-bar{
+  display:flex
+}
+button{
+  width: 65px;
+  height: 65px;
+  background-color: darkgreen;
+  color: white;
+}
+.operation{
+  background-color: green;
+  color: black;
+}
+button:hover{
+  color:white;
+  background-color: lightgreen;
+}
+.display{
+  background-color: darkgreen;
+  height: 65px;
+  width: 200px;
+  text-align: right;
+  line-height: 5px;
+  font-size: 25px;
+}
